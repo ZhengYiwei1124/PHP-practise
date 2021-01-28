@@ -4,9 +4,13 @@
 
 这个项目是个人初学PHP时的一些练习笔记。
 
+
+
 ### 做了一点改变
 
 试着把这个 README.md 文件push到Github上。
+
+
 
 ### 针对Git的练习
 
@@ -18,3 +22,8 @@
 
 #### step 4. Git push origin branch_name (main)
 
+
+
+### 使用SSH进行push
+
+尝试一下是否可行，这样就不用每次push都输入密码了。
