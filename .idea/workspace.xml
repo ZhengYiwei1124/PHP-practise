@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b65961c2-157e-42ed-90cf-c4521de32a65" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="local" id="28ba1c6a-37ad-43ac-a45a-5a6413ec0d46" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1hLxg6L7Or3zft3IkMQTmQKvtoD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/新建草稿文件" value="Markdown" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="D:/phpstudy_pro/Extensions/php/php7.3.4nts/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CPC\PhpstormProjects\PHP\L1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="数据库脚本.1sql">
+    <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/L9/code/1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="error2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/L6/ code/error2.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="error.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/L6/ code/error.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/L6/ code/ex1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/L6/ code/ex2.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="helloworld.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/L1/helloworld.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="phpinfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/L1/phpinfo.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 调试.1.html" />
+        <item itemvalue="PHP 脚本.ex2.php" />
+        <item itemvalue="PHP 脚本.ex1.php" />
+        <item itemvalue="PHP 脚本.error.php" />
+        <item itemvalue="PHP 脚本.error2.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b65961c2-157e-42ed-90cf-c4521de32a65" name="Default Changelist" comment="" />
+      <created>1599804283400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599804283400</updated>
+      <workItem from="1599804284749" duration="24000" />
+      <workItem from="1599816035807" duration="1907000" />
+      <workItem from="1599827362310" duration="418000" />
+      <workItem from="1599846448875" duration="694000" />
+      <workItem from="1599847212541" duration="167000" />
+      <workItem from="1599847391106" duration="1167000" />
+      <workItem from="1599848578457" duration="402000" />
+      <workItem from="1599848995735" duration="21000" />
+      <workItem from="1599849064483" duration="37000" />
+      <workItem from="1599849113911" duration="60000" />
+      <workItem from="1599849206324" duration="441000" />
+      <workItem from="1599849662005" duration="20000" />
+      <workItem from="1599849692215" duration="21000" />
+      <workItem from="1599849724661" duration="227000" />
+      <workItem from="1599849964156" duration="2515000" />
+      <workItem from="1599924822678" duration="618000" />
+      <workItem from="1599930275032" duration="426000" />
+      <workItem from="1599934472227" duration="917000" />
+      <workItem from="1599969452327" duration="2465000" />
+      <workItem from="1600019042732" duration="716000" />
+      <workItem from="1600019839031" duration="500000" />
+      <workItem from="1600167753134" duration="2301000" />
+      <workItem from="1600227524593" duration="3000" />
+      <workItem from="1600313951533" duration="23000" />
+      <workItem from="1600313983875" duration="3857000" />
+      <workItem from="1600340182457" duration="3801000" />
+      <workItem from="1600614453700" duration="1983000" />
+      <workItem from="1600669227202" duration="4577000" />
+      <workItem from="1600673903123" duration="426000" />
+      <workItem from="1601198667204" duration="35000" />
+      <workItem from="1601198710334" duration="4845000" />
+      <workItem from="1601275628716" duration="944000" />
+      <workItem from="1601445780497" duration="4821000" />
+      <workItem from="1601818741950" duration="1101000" />
+      <workItem from="1601821342316" duration="2316000" />
+      <workItem from="1601877752909" duration="3418000" />
+      <workItem from="1602410632415" duration="2098000" />
+      <workItem from="1602482964903" duration="2506000" />
+      <workItem from="1602576017902" duration="672000" />
+      <workItem from="1602576719902" duration="3592000" />
+      <workItem from="1602592297144" duration="2148000" />
+      <workItem from="1602595703696" duration="24000" />
+      <workItem from="1602656423927" duration="3882000" />
+      <workItem from="1603089558831" duration="1100000" />
+      <workItem from="1604247815788" duration="2941000" />
+      <workItem from="1604296861490" duration="5172000" />
+      <workItem from="1604825792685" duration="5118000" />
+      <workItem from="1604902172341" duration="1531000" />
+      <workItem from="1604904366900" duration="1412000" />
+      <workItem from="1605074646846" duration="4998000" />
+      <workItem from="1605451333932" duration="2275000" />
+      <workItem from="1605506573409" duration="4673000" />
+    </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1600020074350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600020074350</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1600020133696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600020133696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1600614662588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600614662588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1600614719023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600614719023</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="115" key="#CLI_Interpreters" timestamp="1601275922556">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="301" y="115" key="#CLI_Interpreters/0.0.1440.920@0.0.1440.920" timestamp="1601275922556" />
+    <state x="175" y="115" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604905190115">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="175" y="115" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1604905190115" />
+    <state x="565" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601823320311">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="565" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1601823320311" />
+    <state x="500" y="165" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600314104337">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="500" y="165" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.920@0.0.1440.920" timestamp="1600314104337" />
+    <state x="381" y="215" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602576684412">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="381" y="215" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.920@0.0.1440.920" timestamp="1602576684412" />
+    <state x="477" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599849508498">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="477" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.920@0.0.1440.920" timestamp="1599849508498" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1602578630453">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1440.920@0.0.1440.920" timestamp="1602578630453" />
+    <state x="620" y="206" key="EnvironmentVariablesDialog" timestamp="1600314162884">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="620" y="206" key="EnvironmentVariablesDialog/0.0.1440.920@0.0.1440.920" timestamp="1600314162884" />
+    <state x="501" y="201" key="FileChooserDialogImpl" timestamp="1604905185348">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="201" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1604905185348" />
+    <state x="606" y="358" width="228" height="280" key="Github.ShareDialog" timestamp="1600019891596">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="606" y="358" width="228" height="280" key="Github.ShareDialog/0.0.1440.920@0.0.1440.920" timestamp="1600019891596" />
+    <state width="957" height="243" key="GridCell.Tab.0.bottom" timestamp="1605510527762">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="957" height="243" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605510527762" />
+    <state width="957" height="243" key="GridCell.Tab.0.center" timestamp="1605510527762">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="957" height="243" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605510527762" />
+    <state width="957" height="243" key="GridCell.Tab.0.left" timestamp="1605510527762">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="957" height="243" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605510527762" />
+    <state width="957" height="243" key="GridCell.Tab.0.right" timestamp="1605510527762">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="957" height="243" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605510527762" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1601883187313">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1601883187313" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1601883187313">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1601883187313" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1601883187313">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1601883187313" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1601883187313">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1601883187313" />
+    <state width="469" height="477" key="HiddenNamespacesPopup" timestamp="1602656602530">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="469" height="477" key="HiddenNamespacesPopup/0.0.1440.920@0.0.1440.920" timestamp="1602656602530" />
+    <state x="537" y="383" key="NewPhpFileDialog" timestamp="1602412942650">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="537" y="383" key="NewPhpFileDialog/0.0.1440.920@0.0.1440.920" timestamp="1602412942650" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1602576128784">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1602576128784" />
+    <state x="313" y="193" key="Vcs.Push.Dialog.v2" timestamp="1600615847338">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="193" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1600615847338" />
+    <state x="603" y="347" width="332" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1604827272711">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="603" y="347" width="332" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.920@0.0.1440.920" timestamp="1604827272711" />
+    <state x="564" y="231" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604828694179">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="564" y="231" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1440.920@0.0.1440.920" timestamp="1604828694179" />
+    <state x="332" y="88" width="604" height="804" key="find.popup" timestamp="1602577386594">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="332" y="88" width="604" height="804" key="find.popup/0.0.1440.920@0.0.1440.920" timestamp="1602577386594" />
+    <state x="377" y="213" key="run.anything.popup" timestamp="1599849637098">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="213" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1599849637098" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1604248699893">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1604248699893" />
+    <state x="526" y="144" key="svn.repositoryBrowser" timestamp="1600019905034">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="144" key="svn.repositoryBrowser/0.0.1440.920@0.0.1440.920" timestamp="1600019905034" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
